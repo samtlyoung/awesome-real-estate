@@ -334,6 +334,7 @@
 
 - [Cost Segregation Benchmarks 2026](https://costsegsmart.com/research/benchmarks-2026/) - Open-data report on 260 cost segregation studies across 13 US property types. Reports median reclassification percentages, year-1 federal tax savings, and US provider pricing. CC-BY 4.0 licensed; CSV dataset available.
 - [MLS Photo Rules Dataset](https://github.com/October-ai-jpg/listing-photo-data) - Photo limits, required shots, branding bans, virtual-staging and AI-alteration labels, original-photo requirements and fines at 22 US MLSs, each row sourced to the MLS's own published rules with the date it was checked. CSV/JSON, CC BY 4.0.
+- [The Trade Economy Index & US Commercial Building Stock Dataset](https://tradesindex.org/data/) - CC BY 4.0 aggregate dataset covering 9,084,887 deduplicated US commercial and industrial properties across 51 states and DC by construction era and property use, annual trade maintenance expenditure per commercial building across 11 property segments, and 19 contractor operating benchmarks, with downloadable CSV/JSON, documented methodology, and Zenodo DOI 10.5281/zenodo.21762674.
 
 ### Cost Estimation & Calculators
 
